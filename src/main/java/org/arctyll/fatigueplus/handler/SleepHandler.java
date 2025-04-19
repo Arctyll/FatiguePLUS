@@ -57,6 +57,10 @@ public class SleepHandler {
         if (player.worldObj.isRemote) {
             return;
         }
+		
+		if (event.result != EntityPlayer.EnumStatus.OK) {
+			return;
+		}
 
         int days = SleepData.getDaysWithoutSleep(player);
         sendRecoveryMessage(player, days);
