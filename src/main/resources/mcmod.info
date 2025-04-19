@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "fatigueplus",
+    "name": "Fatigue+",
+    "description": "Adds a fatigue mechanic to singleplayer Minecraft. Stay awake too long, and your body pays the price.",
+    "version": "1.0",
+    "mcversion": "1.8.9",
+    "url": "https://modrinth.com/mod/fatigueplus",
+    "updateUrl": "",
+    "authorList": ["Arctyll"],
+    "credits": "Inspired by survival realism mods",
+    "logoFile": "logo.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
