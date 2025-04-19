@@ -1,6 +1,9 @@
 # Fatigue+
 
 [![Modrinth](https://img.shields.io/modrinth/dt/fatigueplus?label=Modrinth%20Downloads&style=flat-square)](https://modrinth.com/mod/fatigueplus)
+[![GitHub release](https://img.shields.io/github/v/release/Arctyll/FatiguePLUS?style=flat-square)](https://github.com/Arctyll/FatiguePLUS/releases)
+[![GitHub latest downloads](https://img.shields.io/github/downloads/Arctyll/FatiguePLUS/latest/total?label=Latest%20Downloads&style=flat-square)](https://github.com/Arctyll/FatiguePLUS/releases/latest)
+[![GitHub total downloads](https://img.shields.io/github/downloads/Arctyll/FatiguePLUS/total?label=Total%20Downloads&style=flat-square)](https://github.com/Arctyll/FatiguePLUS/releases)
 [![License](https://img.shields.io/github/license/Arctyll/FatiguePlus?style=flat-square)](https://github.com/Arctyll/FatiguePLUS/blob/main/LICENSE)
 [![Java](https://img.shields.io/badge/Java-8-blue?style=flat-square)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
 [![Forge](https://img.shields.io/badge/Minecraft-1.8.9-blueviolet?style=flat-square)](https://files.minecraftforge.net/)
