@@ -73,7 +73,6 @@ public class SleepData {
 	public static void reset(EntityPlayer player) {
 		ticksAwake.put(player.getName(), 0);
 		sentMessages.remove(player.getName());
-		save();
 	}
 	
 	/**
