@@ -15,7 +15,7 @@ apply plugin: "net.minecraftforge.gradle.forge"
 
 version = "0.1"
 group = "org.arctyll.fatigueplus"
-archivesBaseName = "Fatigie+"
+archivesBaseName = "Fatigue+"
 
 sourceCompatibility = targetCompatibility = 1.8
 compileJava.options.encoding = "UTF-8"
