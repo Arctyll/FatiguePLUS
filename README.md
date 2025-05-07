@@ -1,37 +1,51 @@
-# Fatigue+
+<h1 style="text-align: center;">Fatigue+</h1>
 
-[![Modrinth](https://img.shields.io/modrinth/dt/fatigueplus?label=Modrinth%20Downloads&style=flat-square)](https://modrinth.com/mod/fatigueplus)
-[![GitHub release](https://img.shields.io/github/v/release/Arctyll/FatiguePLUS?style=flat-square)](https://github.com/Arctyll/FatiguePLUS/releases)
-[![GitHub latest downloads](https://img.shields.io/github/downloads/Arctyll/FatiguePLUS/latest/total?label=Latest%20Downloads&style=flat-square)](https://github.com/Arctyll/FatiguePLUS/releases/latest)
-[![GitHub total downloads](https://img.shields.io/github/downloads/Arctyll/FatiguePLUS/total?label=Total%20Downloads&style=flat-square)](https://github.com/Arctyll/FatiguePLUS/releases)
-[![License](https://img.shields.io/github/license/Arctyll/FatiguePlus?style=flat-square)](https://github.com/Arctyll/FatiguePLUS/blob/main/LICENSE)
-[![Java](https://img.shields.io/badge/Java-8-blue?style=flat-square)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html)
-[![Forge](https://img.shields.io/badge/Minecraft-1.8.9-blueviolet?style=flat-square)](https://files.minecraftforge.net/)
+<div style="text-align: center; margin-bottom: 1em;">
+  <a href="https://modrinth.com/mod/fatigueplus">
+    <img src="https://img.shields.io/modrinth/dt/fatigueplus?label=Modrinth%20Downloads&style=flat-square" alt="Modrinth">
+  </a>
+  <a href="https://github.com/Arctyll/FatiguePLUS/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Arctyll/FatiguePlus?style=flat-square" alt="License">
+  </a>
+  <a href="https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html">
+    <img src="https://img.shields.io/badge/Java-8-blue?style=flat-square" alt="Java">
+  </a>
+  <a href="https://files.minecraftforge.net/">
+    <img src="https://img.shields.io/badge/Minecraft-1.8.9-blueviolet?style=flat-square" alt="Forge">
+  </a>
+  <a href="https://github.com/Arctyll/FatiguePLUS">
+    <img src="https://img.shields.io/tokei/lines/github/Arctyll/FatiguePLUS?style=flat-square&label=Lines%20of%20Code" alt="Lines of Code">
+  </a>
+</div>
 
-**Fatigue+** is a lightweight, immersive Minecraft mod that simulates sleep deprivation. Designed for **Minecraft 1.8.9 (Forge)** and built to work **client-side only**, this mod tracks how long you’ve stayed awake and progressively makes your experience more difficult.
+<p><strong>Fatigue+</strong> is a lightweight, immersive Minecraft mod that simulates sleep deprivation. Designed for <strong>Minecraft 1.8.9 (Forge)</strong> and built to work <strong>client-side only</strong>, this mod tracks how long you’ve stayed awake and progressively makes your experience more difficult.</p>
 
-## Features
-- Tracks sleep deprivation day-by-day
-- Applies potion effects and debuffs as days increase
-- Custom messages each day
-- Death begins from Day 7
-- Reset your fatigue by sleeping
-- Only affects **singleplayer** games
-- Stores data in a simple `.json` file
+<h2>Features</h2>
+<ul>
+  <li>Tracks sleep deprivation day-by-day</li>
+  <li>Applies potion effects and debuffs as days increase</li>
+  <li>Custom messages each day</li>
+  <li>Death begins from Day 7</li>
+  <li>Reset your fatigue by sleeping</li>
+  <li>Only affects <strong>singleplayer</strong> games</li>
+  <li>Stores data in a simple <code>.json</code> file</li>
+</ul>
 
-## Installation
-1. Install [Minecraft Forge 1.8.9](https://files.minecraftforge.net/)
-2. Download the latest release from [Modrinth](https://modrinth.com/mod/fatigueplus) or [Releases](https://github.com/Arctyll/FatiguePLUS/releases)
-3. Drop the `.jar` into your `mods` folder
-4. Launch Minecraft and enjoy!
+<h2>Installation</h2>
+<ol>
+  <li>Install <a href="https://files.minecraftforge.net/">Minecraft Forge 1.8.9</a></li>
+  <li>Download the latest release from <a href="https://modrinth.com/mod/fatigueplus">Modrinth</a> or <a href="https://github.com/Arctyll/FatiguePLUS/releases">Releases</a></li>
+  <li>Drop the <code>.jar</code> into your <code>mods</code> folder</li>
+  <li>Launch Minecraft and enjoy!</li>
+</ol>
 
-## License
-This project is licensed under the **GNU AGPL v3**.  
-See [LICENSE](LICENSE) for more information.
+<h2>License</h2>
+<p>This project is licensed under the <strong>GNU AGPL v3</strong>.<br>
+See <a href="https://github.com/Arctyll/FatiguePLUS/blob/main/LICENSE">LICENSE</a> for more information.</p>
 
-## Contributions
-Issues, ideas, and pull requests are welcome!
+<h2>Contributions</h2>
+<p>Issues, ideas, and pull requests are welcome!</p>
 
----
+<hr>
 
-**Sleep well—or suffer.**
+<p><strong>Sleep well—or suffer.</strong></p>
