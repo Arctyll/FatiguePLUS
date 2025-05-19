@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Minecraft-1.8.9-blueviolet?style=flat-square" alt="Forge">
   </a>
   <a href="https://github.com/Arctyll/FatiguePLUS">
-    <img src="https://img.shields.io/tokei/lines/github/Arctyll/FatiguePLUS?style=flat-square&label=Lines%20of%20Code" alt="Lines of Code">
+    <img src="https://raw.githubusercontent.com/Arcryll/FatiguePLUS/main/badge.svg" alt="Lines of Code">
   </a>
 </div>
 
