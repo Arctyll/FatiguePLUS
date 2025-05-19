@@ -1,0 +1,16 @@
+name: Count LOC
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Count lines of code
+      uses: djordje/loc-badge@v1.0.0
